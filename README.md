@@ -15,13 +15,6 @@
 
     <link rel="stylesheet" href="assets/css/templatemo-hexashop.css">
 
-    <link rel="stylesheet" href="assets/css/owl-carousel.css">
-
-    <link rel="stylesheet" href="assets/css/lightbox.css">
-<!--
-
-TemplateMo 571 Hexashop -->
-
  <title>Total Energies no Brasil | TotalEnergies Brasil</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=yes">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
