@@ -87,8 +87,8 @@
                       <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/747555633?h=874f60b5ab&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Memorizando 12 Regras de Ouro.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
                       
                       
-                       <!-- <embed src="assets/images/Memorizando 12 Regras de Ouro.mp4"   
-                        autostart="false" alt="Memorizando 12 Regras de Ouro" title="Memorizando 12 Regras de Ouro" height="100%" width="100%" /> -->
+                       <embed src="https://vimeo.com/747555633"   
+                        autostart="false" alt="Memorizando 12 Regras de Ouro" title="Memorizando 12 Regras de Ouro" height="100%" width="100%" /> 
                     </div>
                 </div>
                 <div class="col-lg-6">
