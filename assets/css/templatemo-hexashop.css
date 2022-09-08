@@ -46,7 +46,7 @@ figure, header, nav, section, article, aside, footer, figcaption {
 
 .tres {
   width:100%;
-  height:45px;
+  height:50px;
   border: 2px solid; /* As 4 bordas sólidas com 25px de espessura */
   border-color: #fc0; /* cores: topo, direita, inferior, esquerda */
   background:#fc0;
