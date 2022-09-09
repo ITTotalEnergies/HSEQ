@@ -54,6 +54,11 @@ figure, header, nav, section, article, aside, footer, figcaption {
   border-radius: 5px;
  }
 
+ h6{
+  color:blue;
+  font-size:18px;
+ }
+
 .clearfix:after {
   content: ".";
   display: block;
@@ -102,6 +107,21 @@ html, body {
 a {
   text-decoration: none !important;
 }
+
+.aa {
+ text-decoration: none;
+ font-size:14px;
+ color:blue;
+ padding: 3px 5px;
+}
+
+.aaa {
+  text-decoration: none;
+  font-size:15px;
+  color: red;
+  padding: 3px 5px;
+  font:bold
+ }
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
