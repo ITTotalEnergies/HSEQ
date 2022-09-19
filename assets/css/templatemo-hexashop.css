@@ -1474,6 +1474,7 @@ About Us Page
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  height: 300px;
 }
 
 .about-us {
@@ -1725,6 +1726,10 @@ contact Us Page
 .contact-us form input::focus {
   border-color: #2a2a2a;
   border-radius: 0px;
+}
+
+.center{
+font-size: 10px;
 }
 
 .contact-us form textarea {
