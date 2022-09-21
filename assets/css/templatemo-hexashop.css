@@ -1636,12 +1636,12 @@ About Us Page
 
 .our-team .team-item .thumb .hover-effect .inner-content ul li a {
   width: 170px;
-  height: 28px;
+  height: 25px;
   background-color: #fff;
   color: #2a2a2a;
   display: inline-block;
   text-align: center;
-  line-height: 44px;
+  line-height: 30px;
   border-radius: 5%;
   transition: all .3s;
 }
