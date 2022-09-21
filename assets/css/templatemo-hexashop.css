@@ -123,14 +123,14 @@ a {
 
 .aaaa {
   text-decoration: none;
-  font-size:10px;
+  font-size:7px;
   color: rgb(254, 254, 254);
  }
 
  .ab {
   text-decoration: none;
-  font-size:7px;
-  color: rgb(255, 255, 255);
+  font-size:10px;
+  color: rgb(18, 16, 16);
  }
 
 .aaa {
@@ -1623,7 +1623,7 @@ About Us Page
 
 .our-team .team-item .thumb .hover-effect .inner-content {
   position: absolute;
-  top: 50%;
+  top: 20%;
   text-align: center;
   width: 100%;
   transform: translateY(-22px);
@@ -1631,18 +1631,18 @@ About Us Page
 
 .our-team .team-item .thumb .hover-effect .inner-content ul li {
   display: inline-block;
-  margin: 0px 5px;
+  margin: 5px 3px;
 }
 
 .our-team .team-item .thumb .hover-effect .inner-content ul li a {
-  width: 50px;
-  height: 50px;
+  width: 170px;
+  height: 28px;
   background-color: #fff;
   color: #2a2a2a;
   display: inline-block;
   text-align: center;
   line-height: 44px;
-  border-radius: 50%;
+  border-radius: 5%;
   transition: all .3s;
 }
 
