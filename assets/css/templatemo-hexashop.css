@@ -121,6 +121,12 @@ a {
  color: red;
 }
 
+.fonte {
+  text-decoration:wavy;
+  font-size:10px;
+  color:#3B566E;
+ }
+
 .aaaa {
   text-decoration: none;
   font-size:7px;
