@@ -30,7 +30,7 @@ function getErrorMessage(error) {
 
 function register() {
     
-    window.location.href = "cadastro.html";
+    window.location.href = "../login/pages/register/cadastro.html";
 }
 
 function toggleEmailErrors() {
